@@ -25,7 +25,9 @@
 /.nb-gradle/
 
 .DS_Store
-
+Thumbs.db
+db.json
 *.log
-logs
-
+node_modules/
+public/
+.deploy*/
